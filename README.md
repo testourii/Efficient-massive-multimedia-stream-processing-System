@@ -173,16 +173,18 @@ Also, you need to run the second consumer to get the extracted events from image
 ```
 python consumer-flink.py
 ```
-**Before running the producer, we need to import the flink project with IntelliJ IDE and then, install dependencies and run it.**
 
 For the Producer, it’s more of the same. First, open a new terminal:
 ```
 python producer.py
 ```
  Here, we’ll be streaming from the web cam, so no additional arguments are needed. but the second consumer will not work as we didn't run the flink project yet.
- >
+ 
+ ### Running Flink project
+ Finally, we need to import the flink project with IntelliJ IDE and then, install dependencies and run it.
 
-### References
+
+## References
 
 If you’re interested,  in-depth look references  are linked below.
 
