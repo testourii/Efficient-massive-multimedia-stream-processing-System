@@ -1,7 +1,7 @@
-
+Cancel changes
 # MAFC: Multimedia Adaptable Flow Controller in Big Data systems [![Tests status](https://img.shields.io/badge/Kafka-%20-lightgrey)](https://github.com/optiopay/kafka/actions?query=workflow%3AKafka) ![enter image description here](https://img.shields.io/badge/Flink%20-%20-orange) ![enter image description here](https://img.shields.io/badge/Python-%20-green) ![enter image description here](https://img.shields.io/badge/YOLO-%20-yellow)
 
-It's a project in the context of the end of year project of a research master in IoT and data processing at Tunisia Polytechnic School with SERCOME Lab.
+This project is realized within the context of the end-of-studies project of a research master in IoT and data processing at Tunisia Polytechnic School with SERCOM laboratory under the supervision of **Mme Takoua ABDELLATIF**  and **Mr Aymen YAHYAOUI**.
 
 ## Introduction 
 The mind blowing Statistics show that in the last two years alone, 90% of data has been generated globally.
