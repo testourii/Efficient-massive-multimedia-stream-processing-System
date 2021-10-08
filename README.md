@@ -181,7 +181,7 @@ python producer.py
  Here, we’ll be streaming from the web cam, so no additional arguments are needed. but the second consumer will not work as we didn't run the flink project yet.
  
  ### Running Flink project
- Finally, we need to import the flink project with IntelliJ IDE and then, install dependencies and run it.
+ Finally, we need to import the flink project with IntelliJ IDE and then, install dependencies and run StreamingJob.java under Flink-part/src/main/java/jar/ .
 
 
 ## References
